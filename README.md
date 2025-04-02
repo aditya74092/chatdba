@@ -312,17 +312,17 @@ langchain-community	Ollama integration (deprecated but functional)
 
 
 ```
-I'll trace the flow of what happens when a user enters a query. Let me check the relevant files to give you a complete picture.
+The flow of what happens.
 
 
 
-Read file: app.py
+-Read file: app.py
 
-Read file: tui_app.py
+-Read file: tui_app.py
 
-Read file: query_generator.py
+-Read file: query_generator.py
 
-Read file: db_client.py
+-Read file: db_client.py
 
 
 
