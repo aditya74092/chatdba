@@ -312,8 +312,6 @@ langchain-community	Ollama integration (deprecated but functional)
 
 
 ```
-I'll trace the flow of what happens when a user enters a query. Let me check the relevant files to give you a complete picture.
-
 
 
 Read file: app.py
